@@ -1,3 +1,4 @@
+
 # Hi, I'm Tarun Kummari 👋
 
 ### Data Scientist | Machine Learning | Generative AI
@@ -25,35 +26,38 @@ My interests include developing scalable ML pipelines, building LLM-powered appl
 
 ### Programming & Data Science
 
-
-
-
-\
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Machine Learning & Deep Learning
 
-
-
-\
-
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-2E8B57?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-6A5ACD?style=flat-square)
+![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-4682B4?style=flat-square)
 
 ### Generative AI & NLP
 
-
-
-
-\
-
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-008B8B?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4169E1?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-555555?style=flat-square)
 
 ### Tools & Deployment
 
-
-
-
-
-\
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -95,11 +99,11 @@ My interests include developing scalable ML pipelines, building LLM-powered appl
 
 ## 💼 Professional Experience
 
-| Organization             | Role                   | Period                  |
-| ------------------------ | ---------------------- | ----------------------- |
-| VOZIQ AI                 | Data Scientist         | July 2024 – Present     |
-| Innomatics Research Labs | AI Intern              | August 2023 – July 2024 |
-| TuringMinds.AI           | Trainee Data Scientist | June 2022 – May 2023    |
+| Organization | Role | Period |
+|---|---|---|
+| VOZIQ AI | Data Scientist | July 2024 – Present |
+| Innomatics Research Labs | AI Intern | August 2023 – July 2024 |
+| TuringMinds.AI | Trainee Data Scientist | June 2022 – May 2023 |
 
 ---
 
@@ -115,24 +119,27 @@ My interests include developing scalable ML pipelines, building LLM-powered appl
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=t95532&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=t95532\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=t95532&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=t95532\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" /> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t95532&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t95532&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=t95532&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=t95532\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=t95532&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-\<p align="left">
-&#x20; \<a href="[https://linkedin.com/in/tarunkummari](https://linkedin.com/in/tarunkummari)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/t95532](https://github.com/t95532)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://linkedin.com/in/tarunkummari">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/t95532">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
